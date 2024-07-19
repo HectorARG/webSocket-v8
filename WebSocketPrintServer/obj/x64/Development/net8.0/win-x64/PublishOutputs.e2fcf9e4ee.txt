@@ -1,0 +1,2 @@
+C:\Users\user\Videos\autoPrint\WebSocketPrintServer.pdb
+C:\Users\user\Videos\autoPrint\WebSocketPrintServer.exe

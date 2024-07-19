@@ -1,0 +1,8 @@
+C:\Users\user\Videos\webSocket\WebSocketPrintServer.exe
+C:\Users\user\Videos\webSocket\WebSocketPrintServer.dll
+C:\Users\user\Videos\webSocket\WebSocketPrintServer.deps.json
+C:\Users\user\Videos\webSocket\WebSocketPrintServer.runtimeconfig.json
+C:\Users\user\Videos\webSocket\WebSocketPrintServer.pdb
+C:\Users\user\Videos\webSocket\BouncyCastle.Cryptography.dll
+C:\Users\user\Videos\webSocket\itextsharp.dll
+C:\Users\user\Videos\webSocket\websocket-sharp-core.dll
